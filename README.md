@@ -10,7 +10,7 @@ dengan waktu 6 menit per putaran.
 C berlari mengelilingi lapangan sebanyak 5 kali 
 dengan waktu 4 menit per putaran.
 - dari permasalahan di atas hitung waktu tercepat dan jarak yang di tempuh permahasiswa
-- carilah pemenang dengan cara membagi jarak dengan waktu, nilai yang paling besar yang akan menjadi pemenang
+- carilah pemenang dengan cara mencari waktu tercepat dalam satu putaran
 a. identifikasi class, object, method dan attribut
 b. implementasi permasalahan diatas dengan kode program
 
@@ -27,8 +27,8 @@ nim, nama_mahasiswa, jumlahPutaran, jumlah_waktu // column header, tidak disimpa
 1233, Anandhi, 5, 4
 ##OUTPUT##
 Aan 720
-Tristiaratri 1440
-Anandhi 960
+Tristiaratri 1680
+Anandhi 1200
 Anandhi //waktu tercepat
 
 ```
