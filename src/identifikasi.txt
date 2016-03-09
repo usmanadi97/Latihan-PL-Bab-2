@@ -1,0 +1,4 @@
+class = mahasiswa, lapangan
+object = mahasiswa a,b,....n, lapangan1
+atribut = nama, nim, panjang, lebar, putaran, waktu
+method = keliling, jumlari
